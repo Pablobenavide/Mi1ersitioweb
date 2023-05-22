@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(71, 66, 66);
+  }
+h1 {
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
+p {
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+}
+img { 
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 50%;
+width: 50%;
+border-radius: 10px;
+}
+
+video {
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 50%;
+width: 50%;
+border-radius: 20px;
+}
+
+#ex1 {
+    background-color: white;
+    color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+
+#ex2 {
+    background-color: white;
+    color: white;
+    padding: 30px 20px;
+    border-radius: 10px ;
+}
+
+footer {
+    background-color:white;
+    padding: 3rem;
+    color: black;
+    border-radius: 10px;
+}
+
